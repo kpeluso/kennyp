@@ -2,7 +2,7 @@
   "name": "kpeluso.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kpeluso/kpeluso.github.io",
+  "homepage": "https://kpeluso.github.io/kpeluso.github.io",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "gh-pages": "^1.1.0",
