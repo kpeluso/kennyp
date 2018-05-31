@@ -2,7 +2,6 @@
   "name": "mySite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kpeluso.github.io/mySite",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "prop-types": "^15.6.1",
