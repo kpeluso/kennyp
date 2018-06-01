@@ -8,7 +8,7 @@ const Landing = () => {
         <img src={require('../assets/images/me.png')} alt='collage of Kenny Peluso'></img>
       </div>
       <Jumbotron className='landing-Comp__tron'>
-        <h1 className="display-3">Hello world!</h1>
+        <h1 className="display-3">Hello, World!</h1>
         <h1 className="display-3">I'm Kenny Peluso.</h1>
         <p className="lead">Blockchain and Machine Learning Technologist / Full-Stack Developer @ John Hancock</p>
         <p className="lead">Long Island, NY <span role="img" aria-label="Airplane">✈️</span> Boston, MA</p>

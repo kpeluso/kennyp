@@ -37,7 +37,7 @@ const skills = [
             key: 'skills-1-1-3',
             items: [
               'Proficiency: 7/10',
-              'Years of experience: ' + String(Math.floor((new Date() - new Date('2016')) / (1000*60*60*24*365.25))),
+              'Years of experience: 1',
               'Libraries: OpenFOAM',
               'I used C++ primarily for creating simulations of fluid dynamics'
             ]
@@ -48,7 +48,7 @@ const skills = [
             key: 'skills-1-1-4',
             items: [
               'Proficiency: 9/10',
-              'Years of experience: ' + String(Math.floor((new Date() - new Date('2015')) / (1000*60*60*24*365.25))),
+              'Years of experience: 2',
               'I used VBA to build a CRM utilized by 6 different cash advance companies, among other accounting-related tasks'
             ]
           },
@@ -76,7 +76,7 @@ const skills = [
             key: 'skills-1-1-7',
             items: [
               'Proficiency: 7/10',
-              'Years of experience: ' + String(Math.floor((new Date() - new Date('2015')) / (1000*60*60*24*365.25))),
+              'Years of experience: 0.5',
               'This functional language is a subset of both Lisp and Scheme. I used it heavily in my introductory programming class.'
             ]
           },
@@ -86,7 +86,7 @@ const skills = [
             key: 'skills-1-1-8',
             items: [
               'Proficiency: 7/10',
-              'Years of experience: ' + String(Math.floor((new Date() - new Date('2015')) / (1000*60*60*24*365.25))),
+              'Years of experience: 0.5',
               'This functional language was developed by one of my professors, Shriram Krishnamurthi. I used it heavily in my introductory programming class.'
             ]
           },
@@ -96,7 +96,7 @@ const skills = [
             key: 'skills-1-1-9',
             items: [
               'Proficiency: 9/10',
-              'Years of experience: ' + String(Math.floor((new Date() - new Date('2015')) / (1000*60*60*24*365.25)))
+              'Years of experience: 3.5'
             ]
           }
         ]
@@ -132,7 +132,7 @@ const skills = [
             key: 'skills-1-2-3',
             items: [
               'Proficiency: 6/10',
-              'Years of experience: 1'
+              'Years of experience: 0.5'
             ]
           }
         ]
@@ -158,7 +158,7 @@ const skills = [
             key: 'skills-1-3-2',
             items: [
               'Proficiency: 8/10',
-              'Years of experience: ' + String(Math.floor((new Date() - new Date('2016')) / (1000*60*60*24*365.25)))
+              'Years of experience: 0.5'
             ]
           },
           {
@@ -167,7 +167,7 @@ const skills = [
             key: 'skills-1-3-3',
             items: [
               'Proficiency: 7/10',
-              'Years of experience: ' + String(Math.floor((new Date() - new Date('2016')) / (1000*60*60*24*365.25)))
+              'Years of experience: 0.5'
             ]
           },
           {
@@ -185,7 +185,7 @@ const skills = [
             key: 'skills-1-3-5',
             items: [
               'Proficiency: 7/10',
-              'Years of experience: ' + String(Math.floor((new Date() - new Date('2016')) / (1000*60*60*24*365.25)))
+              'Years of experience: 1'
             ]
           }
         ]
