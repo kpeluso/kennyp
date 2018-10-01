@@ -5,6 +5,7 @@ import transcript from '../files/InternalRecord.pdf';
 import thesis_overview from '../files/Thesis_overview.pdf';
 import thesis_article from '../files/Thesis_asArticle.pdf';
 import thesis from '../files/Thesis.pdf';
+import blackjack from '../files/My_Blackjack_Strategy.pdf';
 
 const files = [
   {
@@ -50,6 +51,14 @@ const files = [
         key: 'files-1-5',
         items: [
           <a href={thesis} target="_blank">Click to view or download my honors thesis.</a>
+        ]
+      },
+      {
+        head: 'Analysis of Blackjack Strategy',
+        leaf: true,
+        key: 'files-1-6',
+        items: [
+          <a href={blackjack} target="_blank">Click to view or download an anlysis of my betting strategy.</a>
         ]
       }
     ]
