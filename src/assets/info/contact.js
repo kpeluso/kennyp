@@ -19,7 +19,7 @@ const contact = [
         leaf: true,
         key: 'contact-1-2',
         items: [
-          <a href='https://www.linkedin.com/in/kenny-peluso-03a58bb1/' rel='noopener noreferrer' target="_blank">Jump to my LinkedIn</a>
+          <a href='https://www.linkedin.com/in/kennypeluso/' rel='noopener noreferrer' target="_blank">Jump to my LinkedIn</a>
         ]
       },
       {
