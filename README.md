@@ -18,7 +18,7 @@ $ heroku git:clone -a kennyp
 
 $ cd kennyp;git remote add kennyp https://github.com/kpeluso/kennyp.git ;git pull kennyp master
 
-$ <Make edits>
+$ \#  Make edits, then: npm install --save --save-exact react-scripts@2.0.3 --OR-- npm oudated; npm update;npm outdated
 
 $ git add .;git commit -m 'update';git push -u origin master;git push heroku master
 
