@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'reactstrap';
 
-import Header from './Header';
 import Landing from './Landing';
 import RecurSect from './RecurSect';
 import Bottom from './Bottom';
@@ -32,7 +31,6 @@ class App extends Component {
   render() {
     return (
       <div className='app-Comp'>
-        <Header title='Kenny Peluso' dests={this.convertTitles(titles)}/>
         <Landing/>
         <Container>
           {this.fill(titles)}

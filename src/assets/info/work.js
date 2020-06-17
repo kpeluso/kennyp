@@ -16,7 +16,8 @@ const work = [
             items: [
               'Employed 4/18 - Present',
               'Boston, MA',
-              'Integrating Blockchain and Machine Learning technology and decentralized architectures into John Hancock’s business units as part of the LOFT Innovation team'
+              'Co-developed Pool, a protocol for trustless risk hedging; Built and tested its first implementation (Vyper, Python)',
+              'Various other engineering and machine learning tasks as part of the LOFT Innovation team'
             ]
           },
           {
